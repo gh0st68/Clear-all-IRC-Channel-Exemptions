@@ -1,6 +1,9 @@
 #made by gh0st
 #visit IRC.TWISTEDNET.ORG CHANNEL #TWSITED & #DEV 
 
+#To clear all exemptions in the channel the bot is in, first ensure the bot has 'op' permissions. Then, simply send the bot a message with the word 'clear'.
+
+
 import ssl
 import irc.bot
 import irc.connection
